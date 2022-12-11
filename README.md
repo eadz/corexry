@@ -16,3 +16,7 @@ Shorter Belt Lengths. The overall belt length for CoreXrY is shorter than CoreXY
 (X is vertical, Y is horizontal)
 
 ![CoreXrY](corexry.png)
+
+### comments/questions etc. 
+
+For comments or questions, email mail @ [this domain](https://eaden.net). 
